@@ -1,16 +1,19 @@
-### Hi there 👋
+## About Me 👋
+I am a seasoned Dynamics 365 Business Central and Dynamics Navision Technical Consultant with a strong background in .NET development. Alongside, I possess proficiency in Python. I am currently venturing into the exciting realm of AI and am enthusiastic about expanding my expertise in this domain.
 
-<!--
-**quanglenhutthanh/quanglenhutthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+Dynamics 365 Business Central
 
-Here are some ideas to get you started:
+Dynamics Navision (2013. 2017)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.NET Development
+
+Python Programming
+
+AI (Currently Learning)
+
+## Contact Me
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/quanglnt/)
+Email: lenhutthanhquang@gmail.com
+
+
