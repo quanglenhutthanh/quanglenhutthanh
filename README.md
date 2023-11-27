@@ -4,7 +4,7 @@ I am a seasoned Dynamics 365 Business Central and Dynamics Navision Technical Co
 ## Skills
 Dynamics 365 Business Central
 
-Dynamics Navision (2013. 2017)
+Dynamics NAV (2013. 2017)
 
 .NET Development
 
