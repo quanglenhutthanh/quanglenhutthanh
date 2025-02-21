@@ -2,6 +2,7 @@
 I am a seasoned Dynamics 365 Business Central and Dynamics Navision Technical Consultant with a strong background in .NET development. Alongside, I possess proficiency in Python. I am currently venturing into the exciting realm of AI and am enthusiastic about expanding my expertise in this domain.
 
 ## Skills
+
 Dynamics 365 Business Central
 
 Dynamics NAV (2013. 2017)
@@ -9,6 +10,8 @@ Dynamics NAV (2013. 2017)
 .NET Development
 
 Python Programming
+
+Nodejs, React
 
 AI (Currently Learning)
 
